@@ -1,5 +1,5 @@
 <?php
 
-echo 'Pagi Semuanya'
+echo 'Pagi Semua'
 
 ?>
